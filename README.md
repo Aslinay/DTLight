@@ -1,5 +1,7 @@
 # Traffic Signal Control Using Lightweight Transformers: An Offline-to-Online RL Approach
 
+***Fixed some bugs in the old version.***
+
 Source code implementing DTLight, the method in Traffic Signal Control Using Lightweight Transformers: An Offline-to-Online RL Approach.
 The implementation is based on the open-source code of [RESCO](https://github.com/Pi-Star-Lab/RESCO) and [ODT](https://github.com/facebookresearch/online-dt).
 
@@ -34,9 +36,6 @@ If you find this repo beneficial for your research, please kindly consider citin
   title={Traffic Signal Control Using Lightweight Transformers: An Offline-to-Online RL Approach},
   author={Huang, Xingshuai and Wu, Di and Boulet, Benoit},
   journal={arXiv preprint arXiv:2312.07795
-        
-        
-        
         },
   year={2023}
 }
